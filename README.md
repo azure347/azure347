@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 我是777
+- 🔭 目前正在从事Java开发相关工作
+- 🌱 目前正在学习一些Java高级的相关知识
+- 📫 邮箱：azureyong@163.com
+- 😄 热爱编程，持续学习，努力成为一个全栈开发工程师
+- ⚡ 热爱生活，积极向上
 <!--
 **azure347/azure347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
